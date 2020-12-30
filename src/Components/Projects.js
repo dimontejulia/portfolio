@@ -4,11 +4,8 @@ function Projects(props) {
   return (
     // Render a Thumbnail component
     <div id="projects">
-      <div id="banner" class="jumbotron jumbotron-fluid">
-        <div class="container">
-          <h2 class="display-4">Projects</h2>
-        </div>
-      </div>
+      <h3>Projects</h3>
+      <hr />
       <h3>Food Ordering Web Application</h3>
       <a href="https://github.com/dimontejulia/mood4food">Github Page</a>
       <ul>

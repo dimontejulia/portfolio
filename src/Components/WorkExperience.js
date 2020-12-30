@@ -3,11 +3,8 @@ import React from "react";
 export default function WorkExperience(props) {
   return (
     <div id="work">
-      <div id="banner" class="jumbotron jumbotron-fluid">
-        <div class="container">
-          <h2 class="display-4">Work Experience</h2>
-        </div>
-      </div>
+      <h3>Work Experience</h3>
+      <hr />
       <h3>Product Support Engineer - SAP, Toronto</h3>
       <h5>May 2019 - December 2019</h5>
       <ul>

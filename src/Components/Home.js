@@ -7,13 +7,7 @@ function Home(props) {
       <h1 class="display-4">Julia Di Monte</h1>
 
       <p class="lead">
-        As a web developer and graduate of Queen's University with a Bachelor of
-        Computing, I look for opportunities to compliment my passion for
-        innovation and technology. I have experience working on various stages
-        of the software development lifecycle as a quality assurance engineer
-        and in product support and am looking to gain more experience developing
-        as a full stack developer. My interests range from software
-        applications, social media, fashion, design, music, and sports.
+        Hello! I am a full-stack developer located in Toronto, Ontario.
       </p>
       <p class="lead">
         <a
@@ -24,6 +18,21 @@ function Home(props) {
           Download Resume
         </a>
       </p>
+      <a href="#nav">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="30"
+          height="30"
+          fill="currentColor"
+          class="bi bi-arrow-down-circle"
+          viewBox="0 0 16 16"
+        >
+          <path
+            fill-rule="evenodd"
+            d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z"
+          />
+        </svg>
+      </a>
     </div>
   );
 }

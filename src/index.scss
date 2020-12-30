@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
-$font-family: "Noticia Text", sans-serif;
+$font-family: "Noticia Text", serif;
 
 * {
   box-sizing: border-box;
+  font-family: $font-family;
 }
 
 body {
-  font-family: $font-family;
   padding-left: 50px;
   padding-right: 50px;
 }
@@ -24,16 +24,16 @@ nav {
 
 .jumbotron {
   padding: 0px;
-  background-image: url("./Images/sunset.jpg");
+  background-image: url("./Images/mountain.jpg");
   background-size: cover;
   height: 100vh;
 }
 
-#banner {
+.footer {
   padding: 0px;
-  background-image: url("./Images/sunset.jpg");
+  background-image: url("./Images/mountain.jpg");
   background-size: cover;
-  height: 10vh;
+  height: 50;
 }
 
 @media only screen and (max-width: 960px) {

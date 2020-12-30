@@ -3,11 +3,8 @@ import React from "react";
 function Education(props) {
   return (
     <div id="education">
-      <div id="banner" class="jumbotron jumbotron-fluid">
-        <div class="container">
-          <h2 class="display-4">Education</h2>
-        </div>
-      </div>
+      <h3>Education</h3>
+      <hr />
       <h3>Web Development Bootcamp Diploma</h3>
       <h4>Lighthouse Labs - Toronto, Ontario </h4>
       <h5>October 2019 - January 2020</h5>
