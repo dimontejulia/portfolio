@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+$font-family: "Noticia Text", sans-serif;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-family;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+nav {
+  margin-bottom: 0px;
+  padding-right: 50px;
+}
+
+.jumbotron {
+  padding: 0px;
+  background-image: url("./Images/sunset.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+#banner {
+  padding: 0px;
+  background-image: url("./Images/sunset.jpg");
+  background-size: cover;
+  height: 10vh;
+}
+
+@media only screen and (max-width: 960px) {
+  html {
+    font-size: 12px;
+  }
+
+  .layout {
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  html {
+    font-size: 10px;
+  }
+}
