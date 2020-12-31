@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dimontejulia/portfolio/static/css/main.288e3d77.chunk.css",
+    "main.js": "/dimontejulia/portfolio/static/js/main.e44ebe2f.chunk.js",
+    "main.js.map": "/dimontejulia/portfolio/static/js/main.e44ebe2f.chunk.js.map",
+    "runtime-main.js": "/dimontejulia/portfolio/static/js/runtime-main.06720547.js",
+    "runtime-main.js.map": "/dimontejulia/portfolio/static/js/runtime-main.06720547.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/dimontejulia/portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5dc6db4d.chunk.js": "/dimontejulia/portfolio/static/js/2.5dc6db4d.chunk.js",
+    "static/js/2.5dc6db4d.chunk.js.map": "/dimontejulia/portfolio/static/js/2.5dc6db4d.chunk.js.map",
+    "static/js/3.a8eeed96.chunk.js": "/dimontejulia/portfolio/static/js/3.a8eeed96.chunk.js",
+    "static/js/3.a8eeed96.chunk.js.map": "/dimontejulia/portfolio/static/js/3.a8eeed96.chunk.js.map",
+    "index.html": "/dimontejulia/portfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/dimontejulia/portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.288e3d77.chunk.css.map": "/dimontejulia/portfolio/static/css/main.288e3d77.chunk.css.map",
+    "static/js/2.5dc6db4d.chunk.js.LICENSE.txt": "/dimontejulia/portfolio/static/js/2.5dc6db4d.chunk.js.LICENSE.txt",
+    "static/media/headshot.ddc4d0d9.jpg": "/dimontejulia/portfolio/static/media/headshot.ddc4d0d9.jpg",
+    "static/media/index.scss": "/dimontejulia/portfolio/static/media/mountain.634a762e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06720547.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5dc6db4d.chunk.js",
+    "static/css/main.288e3d77.chunk.css",
+    "static/js/main.e44ebe2f.chunk.js"
+  ]
+}
