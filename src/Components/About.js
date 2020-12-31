@@ -1,6 +1,7 @@
 import React from "react";
 import "../index.scss";
 
+import Education from "../Components/Education";
 function About(props) {
   return (
     <div id="about">
@@ -35,6 +36,8 @@ function About(props) {
         Instgram{" "}
         <a href="https://www.instagram.com/juliaeatzworld/">@juliaeatzworld</a>.
       </p>
+      <hr />
+      <Education />
     </div>
   );
 }

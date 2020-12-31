@@ -3,10 +3,8 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 import Projects from "./Projects";
 import About from "./About";
-import Home from "./Home";
 import Education from "./Education";
 import WorkExperience from "./WorkExperience";
-import Skills from "./Skills";
 
 function Navigation(props) {
   return (
@@ -32,11 +30,6 @@ function Navigation(props) {
               <li class="nav-item active">
                 <Link class="nav-link" to={"/"}>
                   About <span class="sr-only">(current)</span>
-                </Link>
-              </li>
-              <li class="nav-item">
-                <Link class="nav-link" to={"/education"}>
-                  Education <span class="sr-only">(current)</span>
                 </Link>
               </li>
               <li class="nav-item">

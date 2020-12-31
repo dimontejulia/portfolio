@@ -1,4 +1,5 @@
 import React from "react";
+import Skills from "./Skills";
 
 function Projects(props) {
   return (
@@ -42,6 +43,7 @@ function Projects(props) {
           client-side, and Node, Express, and MongoDB on the server-side.
         </li>
       </ul>
+      <Skills />
     </div>
   );
 }
