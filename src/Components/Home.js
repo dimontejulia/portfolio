@@ -12,7 +12,7 @@ function Home(props) {
       <p class="lead">
         <a
           class="btn btn-primary btn-lg"
-          href="https://drive.google.com/file/d/1zgq_XvziOhOBIB9bkadiT_s7lpXtvw_r/view?usp=sharing"
+          href="https://drive.google.com/file/d/16cVJZdmi31j40EkypM-YnK-epddzRiGQ/view?usp=sharing"
           role="button"
         >
           Download Resume
