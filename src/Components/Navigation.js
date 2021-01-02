@@ -47,7 +47,7 @@ function Navigation(props) {
               <button type="button" class="btn btn-link">
                 <a
                   class="nav-link"
-                  href="https://drive.google.com/file/d/16cVJZdmi31j40EkypM-YnK-epddzRiGQ/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1XsxfyEK-CvpwDVdyAros-9gFzQ_gVr3n/view?usp=sharing"
                 >
                   Download Resume
                 </a>
