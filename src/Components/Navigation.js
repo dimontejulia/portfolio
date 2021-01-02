@@ -12,10 +12,10 @@ function Navigation(props) {
       <div>
         <nav
           id="nav"
-          class="sticky-top navbar navbar-expand-lg navbar-light bg-white sticky-top "
+          class="navbar sticky-top navbar-expand-lg navbar-light bg-white sticky-top navbar-default"
         >
           <button
-            class="navbar-toggler"
+            class="navbar-toggler collapsed"
             type="button"
             data-toggle="collapse"
             data-target="#navbarText"
@@ -25,8 +25,8 @@ function Navigation(props) {
           >
             <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarText">
-            <ul class="navbar-nav mr-auto">
+          <div class="collapse navbar-collapse collapse" id="navbarText">
+            <ul class="nav navbar-nav mr-auto">
               <li class="nav-item active">
                 <Link class="nav-link" to={"/"}>
                   About <span class="sr-only">(current)</span>

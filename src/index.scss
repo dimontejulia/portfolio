@@ -36,10 +36,24 @@ nav {
   height: 50;
 }
 
-#headshot {
+.aboutContainter {
+  height: auto;
   width: 100%;
+  display: inline-block;
+}
+
+#headshot {
   padding: 1em;
   border-radius: 5%;
+  height: 40%;
+  width: 40%;
+  float: left;
+}
+
+#aboutText {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
 }
 
 @media only screen and (max-width: 960px) {

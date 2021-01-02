@@ -7,7 +7,7 @@ function Home(props) {
       <h1 class="display-4">Julia Di Monte</h1>
 
       <p class="lead">
-        Hello! I am a full-stack developer located in Toronto, Ontario.
+        I am a full-stack developer located in Toronto, Ontario.
       </p>
       <p class="lead">
         <a
