@@ -14,7 +14,7 @@ export default function Skills(props) {
           </div>
           <div class="col">
             <h4>Back End</h4>
-            <p> NodeJS, ExpressJS</p>
+            <p> Ruby, Rails, NodeJS, ExpressJS</p>
           </div>
           <div class="col">
             <h4>Databases</h4>

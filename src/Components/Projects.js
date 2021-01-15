@@ -20,6 +20,14 @@ function Projects(props) {
         </li>
         <li>SMS functionality was implemented with Twilio, an SMS API.</li>
       </ul>
+      <h3>Jungle</h3>
+      <a href="https://github.com/dimontejulia/mood4food">Github Page</a>
+      <ul>
+        <li>
+          Inherited an existing code-base built with Ruby on Rails to fix bugs
+          and implement new features.
+        </li>
+      </ul>
       <h3>Interview Scheduler </h3>
       <a href="https://github.com/dimontejulia/scheduler">Github Page</a>
       <ul>
@@ -29,6 +37,17 @@ function Projects(props) {
         <li>
           Worked with Storybook for component creation, Axios for API imports,
           and testing was done with Jest and Cypress.
+        </li>
+      </ul>
+      <h3>Tiny App</h3>
+      <a href="https://github.com/dimontejulia/tiny-app">Github Page</a>
+      <ul>
+        <li>
+          URLs have unique short identifiers that act as keys to the long URLs.
+        </li>
+        <li>
+          A full-stack web app built with Node and Express that allows users to
+          shorten long URLs.
         </li>
       </ul>
       <h3>Tweeter</h3>
